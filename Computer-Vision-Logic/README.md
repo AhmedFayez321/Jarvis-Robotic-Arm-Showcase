@@ -32,6 +32,7 @@ Jarvis identifies **21 hand landmarks**. The gesture is classified based on the 
 This feature creates the illusion of "life" by allowing Jarvis to follow the user around the room.
 
 ![Tracking Demo](./Photos/vision_tracking_demo.png)
+
 *(Image: Real-time pose estimation showing Jarvis locking onto the user's center)*
 
 ### 👃 The "Nose-Lock" Strategy
