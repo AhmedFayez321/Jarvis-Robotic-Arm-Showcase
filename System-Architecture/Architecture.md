@@ -7,7 +7,7 @@ The **Jarvis** robotic system operates on a dual-microcontroller architecture, c
 ## 🎮 1. The Wireless Controller (Master)
 This is the command center used for manual overrides, game selection, and triggering specific animations.
 
-![Controller Build](./controller_build.png)
+![Controller Build](./Photos/controller_build.png)
 *(Image: The custom-built wireless controller)*
 
 ### 🔌 Key Components:
@@ -17,8 +17,8 @@ This is the command center used for manual overrides, game selection, and trigge
   * **Input Modules:** 1x Analog Joystick for multi-axis movement, and **5x Capacitive Touch Sensors** for quick servo-switching and UI navigation.
 
 <p align="center">
-  <img src="./nrf24l01.png" width="30%" alt="NRF Module">
-  <img src="./oled_screen.png" width="30%" alt="OLED Display">
+  <img src="./Photos/nrf24l01.png" width="30%" alt="NRF Module">
+  <img src="./Photos/oled_screen.png" width="30%" alt="OLED Display">
 </p>
 
 ---
@@ -26,7 +26,7 @@ This is the command center used for manual overrides, game selection, and trigge
 ## 🦾 2. The Robot Arm Base (Slave / Execution Unit)
 This unit receives commands from either the PC (Python GUI) or the Wireless Controller and translates them into physical movements and audio feedback.
 
-![Robot Arm Build](./robot_arm_build.png)
+![Robot Arm Build](./Photos/robot_arm_build.png)
 *(Image: Jarvis Robot Arm hardware setup)*
 
 ### 🔌 Key Components:
@@ -37,7 +37,7 @@ This unit receives commands from either the PC (Python GUI) or the Wireless Cont
 * **Audio Feedback:** A serial MP3 Module synced with the Mega to play pre-recorded voice lines and sound effects during interactions.
 
 <p align="center">
-  <img src="./mp3_module.png" width="30%" alt="MP3 Module">
+  <img src="./Photos/mp3_module.png" width="30%" alt="MP3 Module">
 </p>
 
 ---
