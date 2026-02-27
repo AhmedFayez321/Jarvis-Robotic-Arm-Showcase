@@ -35,9 +35,9 @@ Jarvis performing a friendly "Human-like" greeting animation.
 Moments captured during the conference presentation. These photos showcase the interaction between the developer, the audience, and Jarvis, explaining the complex AI and Embedded logic behind the build.
 
 <p align="center">
-  <img src="./Media/images/conference_1.png" width="32%" alt="Conference Presentation 1">
-  <img src="./Media/images/conference_2.png" width="32%" alt="Conference Presentation 2">
-  <img src="./Media/images/conference_3.png" width="32%" alt="Conference Presentation 3">
+  <img src="./images/conference_1.png" width="32%" alt="Conference Presentation 1">
+  <img src="./images/conference_2.png" width="32%" alt="Conference Presentation 2">
+  <img src="./images/conference_3.png" width="32%" alt="Conference Presentation 3">
 </p>
 
 ---
@@ -45,7 +45,7 @@ Moments captured during the conference presentation. These photos showcase the i
 ### 🦾 Hardware Synergy
 A high-resolution shot of the complete ecosystem—the 6-DOF Robotic Arm and its dedicated Wireless Command Unit.
 
-![Jarvis and Controller](./Media/images/robot_and_controller.png)
+![Jarvis and Controller](./images/robot_and_controller.png)
 *Figure 1: The dual-unit robotics solution: Precision hardware meets Intelligent software.*
 
 ---
