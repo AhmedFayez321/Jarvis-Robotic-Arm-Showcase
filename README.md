@@ -42,7 +42,7 @@ Explore the technical depth of each module by visiting the specialized directori
 | **Control Software** | CustomTkinter (GUI), PyFirmata2, Multi-threading |
 | **Embedded Systems** | C++, Arduino Mega 2560, Arduino Nano |
 | **Communication** | NRF24L01 (2.4GHz Wireless), Serial Communication |
-| **Actuation & Hardware** | 6x High-Torque Servos, L298 Motor Driver, Serial MP3 Module, OLED Display |
+| **Actuation & Hardware** | 6x High-Torque Servos, Serial MP3 Module, OLED Display |
 
 ---
 ### 👨‍💻 Developed by:
