@@ -46,4 +46,4 @@ Explore the technical depth of each module by visiting the specialized directori
 
 ---
 ### 👨‍💻 Developed by:
-**Ahmed Fayez** *Robotics, AI & Embedded Systems Developer* [Connect with me on LinkedIn] ```
+**Ahmed Fayez** *Robotics, AI & Embedded Systems Developer*
