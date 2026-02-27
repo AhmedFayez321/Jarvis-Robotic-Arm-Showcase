@@ -37,7 +37,7 @@ Moments captured during the conference presentation. These photos showcase the i
 <p align="center">
   <img src="./Media/images/conference_1.png" width="32%" alt="Conference Presentation 1">
   <img src="./Media/images/conference_2.png" width="32%" alt="Conference Presentation 2">
-  <img src="./Media/images/conference_3.pmg" width="32%" alt="Conference Presentation 3">
+  <img src="./Media/images/conference_3.png" width="32%" alt="Conference Presentation 3">
 </p>
 
 ---
@@ -45,25 +45,10 @@ Moments captured during the conference presentation. These photos showcase the i
 ### 🦾 Hardware Synergy
 A high-resolution shot of the complete ecosystem—the 6-DOF Robotic Arm and its dedicated Wireless Command Unit.
 
-![Jarvis and Controller](./Media/images/full_setup.png)
+![Jarvis and Controller](./Media/images/robot_and_controller.png)
 *Figure 1: The dual-unit robotics solution: Precision hardware meets Intelligent software.*
 
 ---
-
-## 📂 Media Organization
-To ensure all assets are linked correctly, please maintain the following structure:
-```text
-/Media
- ├── /videos
- │    ├── system_overview.mp4
- │    ├── rps_conference.mp4
- │    ├── tracking_demo.mp4
- │    └── greeting_demo.mp4
- └── /images
-      ├── conference_1.jpg
-      ├── conference_2.jpg
-      ├── conference_3.jpg
-      └── full_setup.jpg
 
 ### 👨‍💻 Developed by:
 **Ahmed Fayez** *Robotics & AI Systems Developer*
