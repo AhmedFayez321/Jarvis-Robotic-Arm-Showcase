@@ -46,6 +46,7 @@ Moments captured during the conference presentation. These photos showcase the i
 A high-resolution shot of the complete ecosystem—the 6-DOF Robotic Arm and its dedicated Wireless Command Unit.
 
 ![Jarvis and Controller](./images/robot_and_controller.png)
+
 *Figure 1: The dual-unit robotics solution: Precision hardware meets Intelligent software.*
 
 ---
